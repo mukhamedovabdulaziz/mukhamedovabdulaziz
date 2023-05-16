@@ -14,12 +14,11 @@
 ---
 
 ### :man_technologist: About Me :
-  I am a Frond-End Developer.
-  - :telescope: I can understand other people's code and apply their functionality in other tasks
+  - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-  - :seedling: I have experience in Agile methodology.
+  - :seedling: I'm currenlty learning React and TypeScript.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdulaziz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-mk6/)
+  - :mailbox:How to reach me: [Linkedin](https://www.linkedin.com/in/abdulaziz-mk6/), [Telegram](https://t.me/ozeezz)
 
 ---
 
