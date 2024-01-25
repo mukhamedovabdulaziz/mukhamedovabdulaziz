@@ -13,15 +13,6 @@
 
 ---
 
-### :man_technologist: About Me :
-  - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
-
-  - :seedling: I'm currenlty learning React and TypeScript.
-
-  - :mailbox:How to reach me: [Linkedin](https://www.linkedin.com/in/abdulaziz-mk6/), [Telegram](https://t.me/ozeezz)
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
